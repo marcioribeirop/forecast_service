@@ -1,0 +1,3 @@
+[run]
+source = forecast_service
+omit = forecast_service/test*
